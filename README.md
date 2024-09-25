@@ -4,8 +4,8 @@ This is the Pump.fun smart contract developed using Rust and Anchor.
 ## Clone Project
 
 ```bash
-   git clone https://github.com/derricklee918/Sol-Pumpfun-Contract.git
-   cd Sol-Pumpfun-Contract
+   git clone https://github.com/coinzap/solala-pumpfun-program.git
+   cd solala-pumpfun-program
    npm install
    ```
 
@@ -44,4 +44,4 @@ In this smart contract, I set creating LP FEE as 5% of Reserves.
 
 
 ## Contact me
-Telegram: [@derricklee918](https://t.me/@derricklee918)
+Telegram: [@dwlee918](https://t.me/@dwlee918)
